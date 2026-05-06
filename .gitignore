@@ -1,0 +1,9 @@
+# gstack make-pdf audit logs (generated when running PDF step)
+.gstack/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
